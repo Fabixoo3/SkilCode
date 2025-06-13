@@ -1,0 +1,2 @@
+# SkilCode
+Strona SkilCode
