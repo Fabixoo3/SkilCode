@@ -10,7 +10,7 @@
   <!-- HEADER -->
   <header class="bg-gray-900 p-6 shadow-md">
     <div class="container mx-auto flex justify-between items-center">
-      <h1 class="text-2xl font-bold text-blue-400">TwojeUsługi.pl</h1>
+      <h1 class="text-2xl font-bold text-blue-400">SkilCode.pl</h1>
       <nav class="space-x-4">
         <a href="#dlaczego" class="hover:text-blue-400">Dlaczego?</a>
         <a href="#zakup" class="hover:text-blue-400">Jak kupić</a>
